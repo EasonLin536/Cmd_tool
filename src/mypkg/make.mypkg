@@ -1,0 +1,6 @@
+PKGFLAG   =
+EXTHDRS   = mypkg.h
+EXTRAOBJS =
+
+include ../Makefile.in
+include ../Makefile.lib
